@@ -6,12 +6,6 @@ function exponent(base, power) {
   return base * exponent(base, power - 1);
 }
 
-exponent(1, 0)
-exponent(3, 0)
-exponent(2, 1)
-exponent(3, 2)
-exponent(5, 2)
-
 // test fragment starts from here
 function testExponent(base, power, expected) {
   const result = exponent(base, power);
