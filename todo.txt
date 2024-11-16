@@ -1,0 +1,25 @@
+-js visualizer
+-guard functions
+-prime 
+-division or modulus
+-addition
+
+-average
+-number reversal 
+-dec to bin
+
+-string 
+  -string reversal 
+  -strings programs
+  -find duplicate
+
+-ap
+
+-digit count
+
+-armstrong
+
+-avoid global declarations 
+-if needed , declare global constants
+
+-notes about learnings
