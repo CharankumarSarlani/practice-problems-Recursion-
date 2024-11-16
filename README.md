@@ -37,6 +37,9 @@
  -it moves forward, if it hits termination condition,
    then traces back the path from where it is came from.
 
+Questions
+-conditional returns from variuos places in a one recursive function 
+
 
  
 ```
