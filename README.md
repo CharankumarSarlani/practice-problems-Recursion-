@@ -22,7 +22,7 @@
 
 -usage of memory 
  -recursive function call takes stacks.
- -it every creates new memory space.
+ -it every time creates new memory space.
  -that is why it stops at a particular point of time, and shows error.
 
  -compared to loops
