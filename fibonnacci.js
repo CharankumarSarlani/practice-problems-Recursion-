@@ -8,3 +8,6 @@ function nThTermInfibonnacci(n) {
 }
 
 console.log(nThTermInfibonnacci(1));
+console.log(nThTermInfibonnacci(2));
+console.log(nThTermInfibonnacci(4));
+console.log(nThTermInfibonnacci(5));
