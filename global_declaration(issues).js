@@ -2,7 +2,7 @@ let i = 0;
 
 function reverseString(string) {
   if(string.length < i) {
-    return 0;
+    return '';
   }
 
   console.log(i);
