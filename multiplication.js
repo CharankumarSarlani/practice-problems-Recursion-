@@ -9,6 +9,8 @@ function multiplication(x, y) {
 console.log(multiplication(3, 4));
 console.log(multiplication(1, 1));
 console.log(multiplication(4, 1));
+//console.log(multiplication(0, 0));
+
 
 
 
