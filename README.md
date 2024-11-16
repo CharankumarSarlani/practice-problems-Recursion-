@@ -27,7 +27,8 @@
 
  -compared to loops
   -in loops it goes to infinite loop , but compiler never complains about memory usage,
-   in loops for iteration its creates a new scope , basically replacing the old memory space ,it does the whole work in the space which os beign allocated to it.
+   in loops for iteration its creates a new scope , basically replacing the old memory space ,it does the whole work in the space
+   which is being allocated to it.
   -it doesn't creates new memory blocks.
 
 -recursive function calls are powerfull , because it remembers the path from where it came from, also there we don't use variables . 
