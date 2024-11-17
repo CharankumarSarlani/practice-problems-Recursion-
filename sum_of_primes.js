@@ -37,7 +37,11 @@ function sumOfPrimes(start, end) {
     return 0;
   }
 
-  return (isPrime(start) ? start : 0) + sumOfPrimes(start + 1, end);
+  if(!isPrime(start)) {
+    return sumOfPrimes(start + 1, end);
+  }
+
+  return start + sumOfPrimes(start + 1, end);
 }
 
 // console.log(sumOfPrimes(2,3));
