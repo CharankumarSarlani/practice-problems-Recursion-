@@ -18,7 +18,5 @@
 
 -armstrong
 
--avoid global declarations 
--if needed , declare global constants
 
 -notes about learnings
