@@ -27,7 +27,7 @@ function testAll() {
   testRemoveDuplicate(" ", " ");
   testRemoveDuplicate("cccs", "cs");
   testRemoveDuplicate("cad", "cad");
-  testRemoveDuplicate("", "");
+  testRemoveDuplicate("csc", "csc");
 }
 
 testAll();
