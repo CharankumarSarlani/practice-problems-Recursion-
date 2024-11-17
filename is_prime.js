@@ -49,6 +49,7 @@ function isPrime(primeCandidate) {
   return _isPrime(primeCandidate, 1);
 }
 
+console.log(isPrime(1),1);
 console.log(isPrime(2),2);
 console.log(isPrime(4),4);
 console.log(isPrime(5),5);
@@ -58,9 +59,5 @@ console.log(isPrime(6),6);
 console.log(isPrime(9),9);
 console.log(isPrime(11),11);
 console.log(isPrime(10),10);
+console.log(isPrime(26),26);
 console.log(isPrime(1221),1221);
-
-
-
-
-
