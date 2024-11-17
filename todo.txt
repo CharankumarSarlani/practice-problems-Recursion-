@@ -1,6 +1,5 @@
 -guard functions
--prime 
--division or modulus
+-division
 -addition
 
 -average
@@ -8,15 +7,13 @@
 -dec to bin
 
 -string 
-  -string reversal 
   -strings programs
   -find duplicate
 
--ap
+-ap,find nth term
 
 -digit count
 
 -armstrong
-
 
 -notes about learnings
