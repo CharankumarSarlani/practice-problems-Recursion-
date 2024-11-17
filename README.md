@@ -18,6 +18,7 @@
  -differentiate guard class and main class by (__) double underscore symbol.
 
 -no increments or decrements of parameters while passing those parameters to functions.
+ Eg:f(n--) ,f(++n),.. 
 -higher level abstraction and lower level abstraction of functions.
 
 -usage of memory 
