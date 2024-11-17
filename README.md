@@ -33,7 +33,7 @@
   -it doesn't creates new memory blocks.
 
 -recursive function calls are powerfull , because it remembers the path from where it came from,
- also there we don't use variables . 
+ also there we don't use variables(in some cases) . 
 
 -working
  -it moves forward, if it hits termination condition,
