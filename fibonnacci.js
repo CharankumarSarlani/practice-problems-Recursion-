@@ -1,6 +1,9 @@
 function nThTermInfibonnacci(n) {
+  if(n === 1) {
+    return 0;
+  }
   
-  if(n === 2 || n === 3) {
+  if(n === 2) {
     return 1;
   }
 
@@ -8,6 +11,7 @@ function nThTermInfibonnacci(n) {
 }
 
 console.log(nThTermInfibonnacci(1));
+console.log(nThTermInfibonnacci(3));
 console.log(nThTermInfibonnacci(2));
 console.log(nThTermInfibonnacci(4));
 console.log(nThTermInfibonnacci(5));
