@@ -44,8 +44,8 @@ function sumOfPrimes(start, end) {
   return start + sumOfPrimes(start + 1, end);
 }
 
-// console.log(sumOfPrimes(2,3));
+console.log(sumOfPrimes(2,3));
 console.log(sumOfPrimes(18, 20));
-// console.log(sumOfPrimes(2, 11));
-// console.log(sumOfPrimes(1, 13));
-// console.log(sumOfPrimes(0, 12));
+console.log(sumOfPrimes(2, 11));
+console.log(sumOfPrimes(1, 13));
+console.log(sumOfPrimes(0, 12));
